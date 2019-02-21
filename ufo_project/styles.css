@@ -1,0 +1,30 @@
+.this_table td {
+    padding: 15px;
+}
+
+.this_table th {
+    padding: 15px;
+}
+
+h1 {
+    text-align: center;
+    font-style: bold;
+}
+
+h3 {
+    text-align: center;
+    font-style: oblique;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.results_table td {
+    padding: 15px;
+}
+
+.results_table th {
+    padding: 15px;
+}
