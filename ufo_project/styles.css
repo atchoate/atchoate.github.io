@@ -28,3 +28,7 @@ img {
 .results_table th {
     padding: 15px;
 }
+
+body {
+    padding-top: 40px;
+}
