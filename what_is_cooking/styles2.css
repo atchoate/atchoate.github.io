@@ -1,5 +1,5 @@
 img {
-    width: 75%;
+    width: 100%;
     height: auto;
     background-color: black;
 }
@@ -37,6 +37,6 @@ h4 {
     
 }
 
-.col-md-8 {
-    padding-left: 250px;
+.col-md-10 {
+    padding-left: 225px;
 }
